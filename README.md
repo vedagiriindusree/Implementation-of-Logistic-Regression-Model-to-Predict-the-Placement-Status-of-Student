@@ -19,7 +19,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 5. Make predictions on the test data, inverse transform the predictions, calculate the Mean Squared Error, and print the results.
 
 6. Stop
-## Program:
+## Program // ## Output:
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -27,7 +27,6 @@ Developed by:Vedagiri Indusree
 RegisterNumber:212223230236  
 */
 ```
-## Output:
 ```
 import pandas as pd
 import numpy as np 
