@@ -128,8 +128,10 @@ print(classification_report)
 
 ```
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+print("Name:Vedagiri Indu Sree")
+print("Reg No:212223230236")
 ```
-![image](https://github.com/user-attachments/assets/f24cae65-e256-47ee-97bc-fc2619e50076)
+![image](https://github.com/user-attachments/assets/d7305d96-85fa-4a0e-b11a-a40237f68365)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
